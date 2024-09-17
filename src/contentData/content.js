@@ -12,7 +12,7 @@ const productData = [
     },
     {
       id: 2,
-      name: "STARLINK PRO",
+      name: "MEDIATEK PRO",
       image:
         "https://i.postimg.cc/yYBPPWjn/shield-3408433.png",
       productType: "openBackHeadphones",
@@ -23,7 +23,7 @@ const productData = [
     },
     {
       id: 3,
-      name: "STARLINK VPN LOGIN",
+      name: "MEDIATEK VPN LOGIN",
       image:
         "https://i.ibb.co/NFWPLbQ/app-main-logo.png",
       productType: "openBackHeadphones",
