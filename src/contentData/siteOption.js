@@ -1,7 +1,7 @@
-const siteOptionData = [
+ const siteOptionData = [
     {
       id: 1,
-      siteName: "STARLINK BRAND",
+      siteName: "MEDIATEK APPLICATION",
       image:
         "https://i.ibb.co/NFWPLbQ/app-main-logo.png",
       description: "Experience a secure and reliable VPN service with enhanced privacy and performance.",
